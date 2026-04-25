@@ -7,7 +7,7 @@ export const deleteTempFile = async (filePath) => {
     await fs.unlink(filePath);
   } catch (error) {
     console.error(
-      `Temporary file could not be deleted: ${error.message}`
+      `Temporary file could not be deleted: ${error.message}.`
     );
   }
 };
