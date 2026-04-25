@@ -1,6 +1,6 @@
 {
   "name": "@sfagnoni/express-cloudinary-upload",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Simple Cloudinary and Multer abstraction for Express with beginner-friendly error handling",
   "type": "module",
   "main": "src/index.js",
