@@ -1,0 +1,29 @@
+{
+  "name": "@sfagnoni/express-cloudinary-upload",
+  "version": "1.0.3",
+  "description": "Simple Cloudinary and Multer abstraction for Express with beginner-friendly error handling",
+  "type": "module",
+  "main": "src/index.js",
+  "exports": {
+    ".": "./src/index.js"
+  },
+  "files": [
+    "src"
+  ],
+  "keywords": [
+    "cloudinary",
+    "express",
+    "multer",
+    "upload",
+    "nodejs"
+  ],
+  "author": "Santiago Fagnoni",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "cloudinary": "^2.9.0",
+    "multer": "^2.1.1"
+  }
+}
