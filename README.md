@@ -228,3 +228,28 @@ Developers are encouraged to add additional validations according to their proje
 MIT
 
 ---
+
+# Repository Links
+
+## GitHub Repository
+
+https://github.com/sfagnoni/express-cloudinary-upload
+
+Use this repository to:
+
+- clone the project
+- report issues
+- suggest improvements
+- create forks
+- submit Pull Requests
+
+---
+
+## NPM Package
+
+https://www.npmjs.com/package/@sfagnoni/express-cloudinary-upload
+
+Install the package with:
+
+```bash
+npm install @sfagnoni/express-cloudinary-upload

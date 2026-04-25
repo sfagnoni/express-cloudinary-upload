@@ -231,3 +231,27 @@ MIT
 
 ---
 
+# Enlaces del Proyecto
+
+## Repositorio en GitHub
+
+https://github.com/sfagnoni/express-cloudinary-upload
+
+Utiliza este repositorio para:
+
+- clonar el proyecto
+- reportar errores (issues)
+- sugerir mejoras
+- crear forks
+- enviar Pull Requests
+
+---
+
+## Paquete en NPM
+
+https://www.npmjs.com/package/@sfagnoni/express-cloudinary-upload
+
+Instalar el paquete con:
+
+```bash
+npm install @sfagnoni/express-cloudinary-upload
